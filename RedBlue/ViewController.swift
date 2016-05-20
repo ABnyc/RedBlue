@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  RedBlue
 //
-//  Created by Arpita Bhatia on 5/19/16.
+//  Created by Arpita Bhatia on 5/19/16 as part of Udemy course
 //  Copyright © 2016 Arpita Bhatia. All rights reserved.
 //
 
